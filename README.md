@@ -37,11 +37,11 @@ npm install
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [react](https://es.reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario 
+* [React](https://es.reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario 
   
-* [npm](https://www.npmjs.com/) - Manejador de dependencias
+* [Npm](https://www.npmjs.com/) - Manejador de dependencias
  
-* [tailwind](https://tailwindcss.com/)-  frameworks CSS o también llamados frameworks de diseño
+* [MATERIAL-UI](https://material-ui.com/es/)-  Componentes de React para un desarrollo web más rápido y sencillo. 
 
  
  
